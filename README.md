@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive%20Programmer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="230">
 
 <h3>🚀 About Me</h3> 
 <p> I'm Karim Safan from Egypt. I'm a Computer Science Student. I really enjoy learning Programming languages and frameworks.  I love Problem Solving and Competitive Programming.  As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
