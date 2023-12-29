@@ -8,7 +8,7 @@
 <h3>🚀 About Me</h3> 
 <p> I'm Karim Safan from Egypt. I'm a Computer Science Student. I really enjoy learning Programming languages and frameworks.  I love Problem Solving and Competitive Programming.  As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=50px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=50px>
 
 ### Languages and Tools 🛠 : 
 
