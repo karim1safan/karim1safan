@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Karim Safan
 
-<!--
-**karim1safan/karim1safan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Frontend Developer | React Enthusiast
+💻 Passionate about building modern, responsive web apps
+🚀 Currently improving my skills in React & JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 Student in Physics & Computer Science
+* 💡 Interested in Full-Stack Development (React + Node.js)
+* 🔥 Working on real-world projects to improve my skills
+* 📚 Currently learning Backend with Node.js & Express
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+
+* HTML, CSS, SASS, JavaScript
+* React.js
+* Tailwind CSS, Bootstrap
+
+**Backend:**
+
+* Node.js
+* Express.js
+* REST APIs
+
+**Tools:**
+
+* Git & GitHub
+* VS Code
+* Linux
+
+---
+
+## 📊 GitHub Stats
+
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim1safan\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim1safan\&layout=compact)
+
+---
+
+## 🤝 Connect with me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/karimsafan/
+* 📧 Email: karimmahoud122@gmail.com
+
+---
+
+⭐️ From [karim1safan](https://github.com/karim1safan)
