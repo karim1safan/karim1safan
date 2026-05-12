@@ -17,6 +17,13 @@
 
 ## 🛠️ Tech Stack
 
+**Language:**
+* C/C++
+* C#
+* Python
+* JavaScript (ES6+)
+* TypeScript
+
 **Frontend:**
 
 * HTML, CSS, SASS, JavaScript
@@ -34,7 +41,8 @@
 * Git & GitHub
 * VS Code
 * Linux
-
+* npm
+* Vite
 ---
 
 ## 📊 GitHub Stats
