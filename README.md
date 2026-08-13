@@ -3,15 +3,13 @@
 
 Passionate about engineering modern, high-performance web applications. I focus on building scalable user interfaces with **React.js** and **TypeScript**, bridging the gap between elegant frontend design and robust backend logic.
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML, CSS, C/C++, Python
+**Languages:** JavaScript (ES6+), TypeScript, HTML, CSS, C/C++, C#, Python, SQL
 
-**Frontend:** React, Tailwind CSS, SASS, Bootstrap, Material UI, React Router, React Query
+**Frontend:** React, Tailwind CSS, SASS, Bootstrap, Material UI, React Router, React Query, Axios
 
-**Backend & Runtime:** Node.js, Express, REST APIs, WebSockets, SQLite
+**Backend & Runtime:** Node.js, Express, REST APIs, MongoDB
 
-**DevOps & Cloud:** AWS, Docker, Nginx, CI/CD, Linux, SSH, VPS
-
-**Tools:** Git, GitHub, Vite, NPM, Postman, Axios, VS Code
+**Tools:** Git, GitHub, Vite, NPM, Postman, VS Code, Linux, VIM
 
 ---
 
@@ -34,5 +32,6 @@ Passionate about engineering modern, high-performance web applications. I focus 
 ## 🤝 Connect with me
 
 - 💼 **LinkedIn:** [linkedin.com/in/karimsafan](https://www.linkedin.com/in/karimsafan/)
-- 🌐 **Portfolio:** [karimmahmoudsafan.netlify.app](https://karimmahmoudsafan.netlify.app)
+- **Twitter:** [https://twitter.com/karim_safan11](https://twitter.com/karim_safan11)
+- 🌐 **Portfolio:** [https://karimsafan.vercel.app/](https://karimsafan.vercel.app/)
 - 📧 **Email:** karimmahoud122@gmail.com
